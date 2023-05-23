@@ -9,8 +9,8 @@ const create = async (req, res) => {
   const totalRecords = [];
 try{
         // Enter copied or downloaded access ID and secret key here
-const ID = 'AKIARJ4JOJSDI7M23YPV';
-const SECRET = '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';
+const ID = 'ID';
+const SECRET = 'SECRET';
 
 // The name of the bucket that you have created
 const BUCKET_NAME = 'csv-storage-file';
